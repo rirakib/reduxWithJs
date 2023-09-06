@@ -1,0 +1,14 @@
+{
+  "name": "redux-with-js",
+  "version": "1.0.0",
+  "description": "understand core concept of redux use javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rirrakib",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
